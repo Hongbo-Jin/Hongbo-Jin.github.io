@@ -37,5 +37,5 @@ SpatialReason: Enhancing Spatial Multi-Hop QA with deep reasoning ability
 
 For more information
 ------
-More information about me can be found in [my google scholar](https://scholar.google.com/citations?user=mFTks3AAAAAJ&hl=en) and [my openreview](https://openreview.net/profile?id=~Hongbo_Jin1).
+More information about me can be found in [google scholar](https://scholar.google.com/citations?user=mFTks3AAAAAJ&hl=en) and [openreview](https://openreview.net/profile?id=~Hongbo_Jin1).
 If you have any questions or are interested in working together, please contact me via sending an email to hongbo@hust.edu.cn.
