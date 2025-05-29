@@ -31,6 +31,10 @@ Frame Grouping
 <br>
 Xuyi Yang<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, **Hongbo Jin**<sup>‡</sup>, Yongwei Nie, Hongboxu, Huicong Zhang, Fei Ma<sup>*</sup>, Fei Yu 
 
+SpatialReason: Enhancing Spatial Multi-Hop QA with deep reasoning ability
+<br>
+Hongbo Jin<sup>‡</sup>, Tinghong Ye<sup>‡</sup>, Jin Wang, Yaochen Liu, Binye Liu, Tuocheng Zeng<sup>*</sup>
+
 
 For more information
 ------
