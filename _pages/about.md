@@ -22,12 +22,12 @@ Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
 
 CoT-Vid: Dynamic Chain-of-Thought Routing with
 Self Verification for Training-Free Video Reasoning
-[(Arxiv 2025)](https://arxiv.org/abs/2505.11830)
+[](https://arxiv.org/abs/2505.11830)
 <br>
 **Hongbo Jin**<sup>‡</sup>, Ruyang Liu<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, Guibo Luo, Ge Li<sup>*</sup>
 
 Enhancing Long Video Detail Perception with Scene-Localized
-Frame Grouping [(Arxiv 2025)]()
+Frame Grouping []()
 <br>
 Xuyi Yang<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, **Hongbo Jin**<sup>‡</sup>, Yongwei Nie, Hongboxu, Huicong Zhang, Fei Ma<sup>*</sup>, Fei Yu 
 
