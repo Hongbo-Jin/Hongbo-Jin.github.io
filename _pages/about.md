@@ -16,7 +16,7 @@ My Publications
 ------
 <sup>‡</sup>Co-first authors, <sup>*</sup>Corresponding author.
 
-TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  [(ECAI2024)](https://ebooks.iospress.nl/doi/10.3233/FAIA240480)
+[TEOcc](https://ebooks.iospress.nl/doi/10.3233/FAIA240480): Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement 
 <br>
 Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
 
